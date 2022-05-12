@@ -1,5 +1,6 @@
-# Decompile by Mardis (Tools By Kapten-Kaizo)
-# Time Succes decompile : 2022-05-11 20:57:47.501792
+# DECOMPILE BY ZM-HERO
+# LUB U ALL🤩
+
 
 import os, sys, subprocess, platform
 try:
