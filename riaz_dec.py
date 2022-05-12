@@ -1,5 +1,5 @@
-# Decompile by Mardis (Tools By Kapten-Kaizo)
-# Time Succes decompile : 2022-05-11 20:14:38.985029
+# DECOMPILE BY ZM-HERO
+# LUB U ALL🤩
 import os, sys, time, datetime, re, threading, json, random, requests, hashlib, cookielib, uuid
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
