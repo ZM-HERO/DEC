@@ -1,5 +1,5 @@
-# Decompile by Mardis (Tools By Kapten-Kaizo)
-# Time Succes decompile : 2022-05-18 08:32:05.863581
+# Decompile by ZM-HERO
+# lUB U ALL 🤩🥵
 
 
 import os
