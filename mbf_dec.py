@@ -1,5 +1,5 @@
-# Decompile by Mardis (Tools By Kapten-Kaizo)
-# Time Succes decompile : 2022-05-17 11:58:08.564756
+# Decompile by ZM-HERO
+# LUB U ALL 💚🥵
 import requests,bs4,sys,os,random,time,re,json,uuid,subprocess
 from random import randint
 from concurrent.futures import ThreadPoolExecutor as ThreadPool
